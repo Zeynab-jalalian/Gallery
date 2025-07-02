@@ -9,14 +9,12 @@
     max-width: 1000px;
     width: 100%;
     margin: 0 auto;
-    background: red;
     padding: 40px 20px;
 }
 .container .search-box{
     position: relative;
     height: 42px;
     max-width: 400px;
-    background: green;
     margin: 0 auto;
     margin-bottom: 40px;
 }
